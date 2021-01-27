@@ -1,0 +1,6 @@
+Project uses latest opencv-python version  as listed in requirements.
+
+
+Results.JSON was obtained by running the model on the given 'Test folder/images/'
+
+
